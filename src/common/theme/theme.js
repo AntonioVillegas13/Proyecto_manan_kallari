@@ -1,0 +1,5 @@
+export const COLORS = {
+  MODERNA_RED: "#D22630",
+  MODERNA_YELLOW: "#ECAA20",
+  TEXT_INFO_COLOR: "#7D7D7D",
+};

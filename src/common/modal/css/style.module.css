@@ -1,0 +1,17 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.buttonGroup{
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+}
+
+.button{
+    margin-inline: 10px;
+    background-color: aqua;
+}

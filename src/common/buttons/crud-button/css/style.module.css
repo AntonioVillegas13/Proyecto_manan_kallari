@@ -1,0 +1,9 @@
+.icon{
+    cursor: pointer;
+}
+.icon:hover{
+    filter: brightness(0.8);
+}
+.icon:focus{
+    filter: brightness(1.2);
+}

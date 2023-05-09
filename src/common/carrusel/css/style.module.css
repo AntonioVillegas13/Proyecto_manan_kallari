@@ -1,0 +1,16 @@
+.imageBox {
+    display: flex;
+    background-color: black;
+    /* width: 450px; */
+    width: 100%;
+    padding: 2px;
+    margin-bottom: 10px;
+  }
+  
+  .imageBox img {
+    height: 300px; /* Ajusta la altura deseada */
+    
+    /* object-fit: cover; */
+    object-position: center;
+    flex-grow: 1;
+  }

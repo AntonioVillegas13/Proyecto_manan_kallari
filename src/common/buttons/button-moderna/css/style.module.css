@@ -1,0 +1,21 @@
+.btn {
+	transform: translateY(0px);
+	transition: 0.3s linear;
+	/* background: #02ff95; */
+	border-radius: 5px;
+	position: relative;
+	overflow: hidden;
+	cursor: pointer;
+	outline: none;
+	border: none;
+	color: #ffffff;
+	padding: 0.9375rem 2.5rem;
+}
+
+.btn:hover {
+	background-color: #ECAA20;
+    filter: brightness(1.2);
+}
+
+.loading{
+}
